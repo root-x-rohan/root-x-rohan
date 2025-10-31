@@ -2,7 +2,7 @@
 
 <p align="justify">
 Security is not about control, it’s about wisdom.
-It lives at the intersection of logic, ethics, and entropy, where defense becomes a discipline, not just a job.
+It lives at the intersection of logic, ethics, and uncertainty, where defense becomes a discipline, not just a job.
 Every system tells a story of its creators, its flaws, and its assumptions, and my work is to understand those stories before someone else rewrites them.
 </p>
 
